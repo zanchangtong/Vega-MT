@@ -5,7 +5,7 @@ We provides the model of Vega-MT, WMT'22 translation translation task submission
 ## Translation Models
 
 Model | Description | Params 
----|---|---|---
+---|---|---
 `Vega-MT.enzh` | En-Zh translation model | 4.7B 
 `Vega-MT.zhen` | Zh-En translation model | 4.7B 
 You can download models from [here](http://box.jd.com/sharedInfo/B5B1DD75A432BBD9EEC946AFBC5707A7) with verification code *s1dffx*.
