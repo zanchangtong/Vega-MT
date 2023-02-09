@@ -18,7 +18,7 @@ See inference.sh
 ## Citation
 
 ```
-    @InProceedings{Vega-MT,
+@InProceedings{Vega-MT,
     author = {Zan, Changtong and Peng, Keqin and Ding, Liang and Qiu, Baopu and Liu, Boan and He, Shwai and Lu, Qingyu and Zhang, Zheng and Liu, Chuang and Liu, Weifeng and Zhan, Yibing and Tao, Dacheng},
     title = {Vega-MT: The JD Explore Academy Machine Translation System for WMT22},
     booktitle= {WMT},
