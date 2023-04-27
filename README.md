@@ -11,7 +11,7 @@ Model | Description | Params
 
 ~~You can download models from [here](http://box.jd.com/sharedInfo/B5B1DD75A432BBD9EEC946AFBC5707A7) with verification code *s1dffx*.~~
 
-Our models are being reviewed internally by the company. In the future, we will provide API for evaluation.
+Our models are being reviewed internally by the company.
 
 ## Example usage
 
